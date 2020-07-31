@@ -1,0 +1,35 @@
+_repo: Canal-Reminiscences-Recollections-of-Travel-in-the-Old-Days-on-the-James-River-Kanawha-Canal_62708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bagby, George William
+    aliases:
+    - Meekins, George Washington
+    - Addums, Mozis
+    - Bagby, G. W. (George William)
+    - Meekins, G. W. (George Washington)
+    birthdate: 1828
+    deathdate: 1883
+    gutenberg_agent_id: '52085'
+    url: http://www.gutenberg.org/2009/agents/52085
+    wikipedia: https://en.wikipedia.org/wiki/George_William_Bagby
+description: ''
+gutenberg_issued: '2020-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inland navigation -- Virginia'
+- !lcsh 'James River and Kanawha Canal (Va.) -- Navigation'
+- !lcsh 'Canal-boats -- Virginia'
+- !lcsh 'Bagby, George William, 1828-1883'
+- !lcc 'TC'
+- !lcsh 'Virginia -- Description and travel'
+- GITenberg
+title: "Canal Reminiscences\r\nRecollections of Travel in the Old Days on the James\
+  \ River & Kanawha Canal"
+url: http://www.gutenberg.org/ebooks/62708
